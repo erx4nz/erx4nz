@@ -2,94 +2,110 @@
 
 # Merhaba, ben **aka | erx4nz** 👋
 
-**18 yaşındayım • Yazılım geliştiricisi • Problem çözücü • Sistem kurmayı seven biri**
+**18 yaşında yazılım geliştiricisi • Full-stack öğrenen • Sistem kurmayı seven biri**
 
-[![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Takipçi&style=social)](https://github.com/erx4nz)
+[![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Takip%C3%A7i&style=social)](https://github.com/erx4nz)
 [![Profile Views](https://komarev.com/ghpvc/?username=erx4nz&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat)](https://github.com/erx4nz)
 
 </div>
 
 ---
 
-## Hakkımda
+## 🧠 Hakkımda
 
-Yazılımı sadece kod yazmak olarak görmüyorum;  
-benim için yazılım, **problem çözme ve sistem kurma disiplini**.
+Yazılımı sadece kod yazmak olarak görmüyorum.  
+Benim için yazılım = **problem çözme + sistem tasarlama + sürekli geliştirme süreci**.
 
 Henüz yolun başındayım ama hedefim net:  
-gerçek dünyada çalışan, ölçeklenebilir ve temiz sistemler geliştirmek.
+gerçek dünyada çalışan, ölçeklenebilir ve temiz sistemler kurmak.
 
-Şu an odağım:
+Şu anda odağım:
 
-- Web tabanlı uygulama geliştirme
+- Full-stack web geliştirme
+- Backend sistem mantığı
+- API ve servis mimarileri
 - Otomasyon ve workflow sistemleri
-- Backend mantığını derinlemesine öğrenmek
-- Modern yazılım mimarileri
 
 ---
 
-## Teknoloji Yığını
+## ⚙️ Teknoloji Yığını
 
-<div align="left">
+### 🔹 Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+### 🔹 Backend
+- Node.js
+- PHP
+- ASP.NET (temel seviyede)
 
-</div>
+### 🔹 Database
+- SQL (MySQL / temel ilişkisel yapı mantığı)
 
----
-
-## Projeler
-
-Şu an aktif olarak geliştirdiğim projeler:
-
-- 🚧 **Otomasyon sistemleri** (workflow ve CI/CD mantığı)
-- 🚧 **Backend API yapıları**
-- 🚧 **Deneysel küçük araçlar ve scriptler**
-
-> Not: GitHub profilim şu an gelişim aşamasında. Düzenli olarak yeni projeler ekliyorum.
+### 🔹 Diğer
+- Lua (script mantığı / oyun modlama vs.)
+- Git & GitHub
+- API kullanımı ve temel sistem entegrasyonları
 
 ---
 
-## Çalışma Tarzım
+## 🚀 Kendimi Geliştirdiğim Alanlar
 
-- Karmaşık çözümler yerine **temiz ve anlaşılır yapı**
-- Kısa vadeli değil, uzun vadeli düşünme
-- Kod yazarken “çalışıyor mu?” değil **“bakımı kolay mı?”** sorusu
-- Sürekli öğrenme ve geliştirme odaklı yaklaşım
+- Modern backend mimarileri
+- API tasarımı ve optimizasyon
+- Full-stack proje geliştirme
+- Kod okunabilirliği ve mimari düşünme
+- Sistem otomasyonu
 
 ---
 
-## GitHub İstatistikleri
+## 📌 Çalışma Tarzım
+
+- Basit çözümler > karmaşık çözümler
+- Çalışan kod değil, sürdürülebilir kod
+- “Hızlı yaz” değil, “doğru kur”
+- Öğrenme odaklı ilerleme
+
+---
+
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erx4nz&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erx4nz&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=erx4nz&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erx4nz&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
 ---
 
-## İletişim
+## 📈 Şu An Üzerinde Çalıştıklarım
+
+- Backend projeler geliştirmek
+- API tabanlı sistemler kurmak
+- Küçük otomasyon araçları yazmak
+- Gerçek dünya projeleri üretmek
+
+---
+
+## 📬 İletişim
 
 - GitHub: [@erx4nz](https://github.com/erx4nz)
 - Instagram: [@erx4nzk](https://instagram.com/erx4nzk)
 
 ---
 
-## Not
+## 🧭 Not
 
-Bu profil, “kaç proje yaptım”dan çok “nasıl düşünüyorum ve nasıl geliştiriyorum” sorusuna cevap verir.
+Bu profil “kaç dil biliyorum” değil,  
+**nasıl düşünen bir geliştirici olduğumu anlatmak için var.**
 
 ---
 
-### Hedef
+## 🎯 Hedef
 
-Gerçek dünyada kullanılan sistemler geliştirmek ve yazılımı sadece öğrenen değil, üreten tarafta olmak.
+Amacım sadece kod yazmak değil;  
+gerçek sistemler kurabilen bir geliştirici olmak.
