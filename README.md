@@ -28,26 +28,28 @@ gerçek dünyada çalışan, ölçeklenebilir ve temiz sistemler kurmak.
 
 ---
 
-## ⚙️ Teknoloji Yığını
+## Teknoloji Yığını
 
-### 🔹 Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+<div align="left">
 
-### 🔹 Backend
-- Node.js
-- PHP
-- ASP.NET (temel seviyede)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 
-### 🔹 Database
-- SQL (MySQL / temel ilişkisel yapı mantığı)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet)
 
-### 🔹 Diğer
-- Lua (script mantığı / oyun modlama vs.)
-- Git & GitHub
-- API kullanımı ve temel sistem entegrasyonları
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua)
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+
+</div>
 
 ---
 
