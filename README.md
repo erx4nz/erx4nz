@@ -2,7 +2,7 @@
 
 # Merhaba, ben **aka | erx4nz** 👋
 
-**18 yaşında yazılım geliştiricisi • Full-stack öğrenen • Sistem kurmayı seven biri**
+**Full-stack Web Developer | Backend Systems | Software Architecture**
 
 [![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Takip%C3%A7i&style=social)](https://github.com/erx4nz)
 [![Profile Views](https://komarev.com/ghpvc/?username=erx4nz&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat)](https://github.com/erx4nz)
