@@ -1,0 +1,76 @@
+<svg width="100%" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundedWindow">
+      <rect width="800" height="320" rx="14" ry="14"/>
+    </clipPath>
+    <clipPath id="clipWhoami"><rect class="typeWhoami" x="42" y="62" width="0" height="22"/></clipPath>
+    <clipPath id="clipCat"><rect class="typeCat" x="42" y="128" width="0" height="22"/></clipPath>
+    <clipPath id="clipEcho"><rect class="typeEcho" x="42" y="194" width="0" height="22"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+    .typeWhoami { animation: typeWhoami 9s linear infinite; }
+    .typeCat { animation: typeCat 9s linear infinite; }
+    .typeEcho { animation: typeEcho 9s linear infinite; }
+    .fadeAbout { animation: fadeAbout 9s linear infinite; }
+    .fadeStack { animation: fadeStack 9s linear infinite; }
+    .fadeStatus { animation: fadeStatus 9s linear infinite; }
+    .fadeCursorRow { animation: fadeCursorRow 9s linear infinite; }
+    .blink { animation: blink 1s steps(2, jump-none) infinite; }
+
+    @keyframes typeWhoami { 0%,2.2% {width:0;} 8.9%,96% {width:70px;} 100% {width:0;} }
+    @keyframes typeCat { 0%,22.2% {width:0;} 32.2%,96% {width:150px;} 100% {width:0;} }
+    @keyframes typeEcho { 0%,46.7% {width:0;} 54.4%,96% {width:135px;} 100% {width:0;} }
+    @keyframes fadeAbout { 0%,10% {opacity:0;} 14.4%,96% {opacity:1;} 100% {opacity:0;} }
+    @keyframes fadeStack { 0%,33.3% {opacity:0;} 38.9%,96% {opacity:1;} 100% {opacity:0;} }
+    @keyframes fadeStatus { 0%,55.6% {opacity:0;} 62.2%,96% {opacity:1;} 100% {opacity:0;} }
+    @keyframes fadeCursorRow { 0%,64.4% {opacity:0;} 67.8%,96% {opacity:1;} 100% {opacity:0;} }
+    @keyframes blink { 0%,49% {opacity:1;} 50%,100% {opacity:0;} }
+  </style>
+
+  <g clip-path="url(#roundedWindow)">
+    <rect width="800" height="320" fill="#282a36"/>
+    <rect width="800" height="34" fill="#21222c"/>
+    <circle cx="20" cy="17" r="6" fill="#ff5555"/>
+    <circle cx="40" cy="17" r="6" fill="#f1fa8c"/>
+    <circle cx="60" cy="17" r="6" fill="#50fa7b"/>
+    <text x="400" y="22" fill="#6272a4" font-size="13" text-anchor="middle">erx4nz — zsh</text>
+
+    <!-- Row 1 -->
+    <text x="24" y="78" font-size="17" fill="#50fa7b">$</text>
+    <text x="42" y="78" font-size="17" fill="#f8f8f2" clip-path="url(#clipWhoami)">whoami</text>
+
+    <!-- Row 2 -->
+    <g class="fadeAbout">
+      <text x="24" y="112" font-size="16" fill="#6272a4">&gt;</text>
+      <text x="42" y="112" font-size="16" fill="#bd93f9">erx4nz — Full-stack Developer</text>
+    </g>
+
+    <!-- Row 3 -->
+    <text x="24" y="144" font-size="17" fill="#50fa7b">$</text>
+    <text x="42" y="144" font-size="17" fill="#f8f8f2" clip-path="url(#clipCat)">cat stack.txt</text>
+
+    <!-- Row 4 -->
+    <g class="fadeStack">
+      <text x="24" y="178" font-size="16" fill="#6272a4">&gt;</text>
+      <text x="42" y="178" font-size="16" fill="#8be9fd">JavaScript · TypeScript · Node.js · PHP · .NET</text>
+    </g>
+
+    <!-- Row 5 -->
+    <text x="24" y="210" font-size="17" fill="#50fa7b">$</text>
+    <text x="42" y="210" font-size="17" fill="#f8f8f2" clip-path="url(#clipEcho)">echo $STATUS</text>
+
+    <!-- Row 6 -->
+    <g class="fadeStatus">
+      <text x="24" y="244" font-size="16" fill="#6272a4">&gt;</text>
+      <text x="42" y="244" font-size="16" fill="#f1fa8c">building clean, scalable systems ⚡</text>
+    </g>
+
+    <!-- Row 7: final prompt + blinking cursor -->
+    <g class="fadeCursorRow">
+      <text x="24" y="286" font-size="16" fill="#ff79c6">guest@erx4nz:~$</text>
+      <rect class="blink" x="168" y="272" width="9" height="16" fill="#f8f8f2"/>
+    </g>
+  </g>
+</svg>
