@@ -3,9 +3,9 @@
 <img src="assets/terminal-header.svg" alt="erx4nz terminal" width="100%" />
 
 <br/>
-
-
-
+<br/>
+<br/>
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Followers&style=for-the-badge&color=BD93F9&logo=github&logoColor=282A36&labelColor=282A36)](https://github.com/erx4nz)
 [![Profile Views](https://komarev.com/ghpvc/?username=erx4nz&label=Profile%20Views&color=FF79C6&style=for-the-badge)](https://github.com/erx4nz)
@@ -63,10 +63,6 @@ I'm sharpening my skills around web technologies, backend logic, and software ar
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=erx4nz&theme=dracula&hide_border=true&background=00000000" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=erx4nz&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
