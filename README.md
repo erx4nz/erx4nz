@@ -4,25 +4,29 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Takip%C3%A7i&style=for-the-badge&color=BD93F9&logo=github&logoColor=282A36&labelColor=282A36)](https://github.com/erx4nz)
-[![Profile Views](https://komarev.com/ghpvc/?username=erx4nz&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=FF79C6&style=for-the-badge)](https://github.com/erx4nz)
+[![GitHub followers](https://img.shields.io/github/followers/erx4nz?label=Followers&style=for-the-badge&color=BD93F9&logo=github&logoColor=282A36&labelColor=282A36)](https://github.com/erx4nz)
+[![Profile Views](https://komarev.com/ghpvc/?username=erx4nz&label=Profile%20Views&color=FF79C6&style=for-the-badge)](https://github.com/erx4nz)
 
 </div>
 
 <br/>
 
-## 🧠 Hakkımda
+## About Me
 
-Yazılımı sadece kod yazmak olarak görmüyorum — benim için problem çözme, sistem kurma ve sürekli geliştirme süreci.
+I don't see software as just writing code — to me, it's about solving problems, building systems, and continuously improving them.
 
-- 🔭 Şu anda **backend servisleri** ve **API mimarisi** üzerine çalışıyorum
-- 🌱 **Otomasyon** ve **workflow** geliştirme konularında kendimi geliştiriyorum
-- 🎯 Hedefim: temiz, sürdürülebilir, gerçek dünyada kullanılabilir sistemler üretmek
-- ⚡ Hızlı çözüm değil, **doğru çözüm** hedeflerim
+I'm sharpening my skills around web technologies, backend logic, and software architecture. My goal is to build clean, maintainable systems that hold up in the real world.
+
+**Currently focused on:**
+
+- Full-stack web development
+- Backend services & API design
+- Software architecture & system design
+- Automation & workflow tooling
 
 <br/>
 
-## 🛠️ Teknoloji Yığını
+## Tech Stack
 
 <div align="center">
 
@@ -32,13 +36,13 @@ Yazılımı sadece kod yazmak olarak görmüyorum — benim için problem çözm
 
 <br/><br/>
 
-**Backend & Diller**
+**Backend & Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,php,dotnet,lua&theme=dark" />
 
 <br/><br/>
 
-**Veritabanı & DevOps**
+**Database & DevOps**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,git,githubactions,docker&theme=dark" />
 
@@ -46,7 +50,7 @@ Yazılımı sadece kod yazmak olarak görmüyorum — benim için problem çözm
 
 <br/>
 
-## 📊 GitHub İstatistikleri
+## GitHub Stats
 
 <div align="center">
 
@@ -65,30 +69,7 @@ Yazılımı sadece kod yazmak olarak görmüyorum — benim için problem çözm
 
 <br/>
 
-## 🐍 Katkı Animasyonu
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/erx4nz/erx4nz/output/snake-dracula.svg" alt="Contribution Snake" width="100%" />
-
-</div>
-
-> Bu satırı çalıştırmak için tek seferlik bir kurulum gerekiyor — aşağıda anlattım. 👇
-
-<br/>
-
-## 🏆 Öne Çıkan Projeler
-
-| Proje | Açıklama |
-|---|---|
-| **[reuse-workflow](https://github.com/erx4nz/reuse-workflow)** | Tekrar kullanılabilir GitHub Actions workflow yapıları |
-| **[appservice-settings](https://github.com/erx4nz/appservice-settings)** | Azure App Service ayarlarını otomasyonla yönetmeye yönelik araç |
-
-> Profil gelişim aşamasında — düzenli olarak yeni projeler ekleniyor.
-
-<br/>
-
-## 💬 İletişim
+## Get in Touch
 
 <div align="center">
 
@@ -100,5 +81,5 @@ Yazılımı sadece kod yazmak olarak görmüyorum — benim için problem çözm
 <br/>
 
 <div align="center">
-<sub>Bu profil, "kaç repo yaptım"dan çok <b>"nasıl düşünen bir geliştiriciyim"</b> sorusuna cevap vermek için hazırlandı.</sub>
+<sub>This profile isn't about how many repos I've shipped — it's about how I think as an engineer.</sub>
 </div>
